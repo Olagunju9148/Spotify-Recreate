@@ -29,12 +29,10 @@ body {
     border-radius: .3rem;
 }
 
-.album-cover {
-    & img {
-       width: 6.5rem;
-       height: 6rem;
-       border-radius : .3rem;
-   }
+.album-cover img {
+    width: 6.5rem;
+    height: 6rem;
+    border-radius : .3rem;
 }
 
 .row-sec {
