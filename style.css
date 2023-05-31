@@ -12,6 +12,7 @@ body {
     align-items: center;
     min-width: 25.6rem;
     background: linear-gradient(#661720, rgb(45, 1, 1));
+    padding: 0 1rem;
 }
 
 .top-text {
@@ -23,7 +24,6 @@ body {
     background-color: #42080f;
     box-shadow: 1px 1px 20px 2px  black;
     padding: 1.8rem;
-    width: 25rem;
     max-width: 100%;
     height: 20rem;
     border-radius: .3rem;
